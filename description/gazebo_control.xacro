@@ -5,8 +5,8 @@
         <plugin name="diff_drive" filename="libgazebo_ros_diff_drive.so">
 
   
-            <left_joint>l_w_j</left_joint>
-            <right_joint>r_w_j</right_joint>
+            <left_joint>left_w_joint</left_joint>
+            <right_joint>right_w_joint</right_joint>
             <wheel_separation>0.35</wheel_separation>
             <wheel_diameter>0.1</wheel_diameter>
 
